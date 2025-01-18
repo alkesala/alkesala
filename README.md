@@ -14,10 +14,10 @@ Business IT student specializing in Software Engineering and Project Management.
 
 **Languages:**
 * TypeScript/JavaScript
+* Python
 
 **Backend:**  
 * Node.js
-* Python
 * Prisma ORM
 
 **Tools:**  
