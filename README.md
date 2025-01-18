@@ -1,16 +1,29 @@
-## Hi there 👋
+# About Me
 
-<!--
-**alkesala/alkesala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business IT student specializing in Software Engineering and Project Management.
 
-Here are some ideas to get you started:
+## Main Interests
+* Web Development
+* Software Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+**Frontend:**  
+* React
+* TypeScript/JavaScript
+* HTML/CSS
+* Tailwind CSS
+
+**Backend:**  
+* Node.js
+* Python
+* Prisma ORM
+
+**Tools:**  
+* Git
+
+## Featured Projects
+* **CampusRide** - Ride-sharing platform for university students
+* **Electricity Price Tracker** - Real-time price monitoring tool
+
+## Contact
+*Catch me while I'm running at Turku*
