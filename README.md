@@ -9,9 +9,11 @@ Business IT student specializing in Software Engineering and Project Management.
 ## Technologies
 **Frontend:**  
 * React
-* TypeScript/JavaScript
 * HTML/CSS
 * Tailwind CSS
+
+**Languages:**
+* TypeScript/JavaScript
 
 **Backend:**  
 * Node.js
