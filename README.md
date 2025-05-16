@@ -18,10 +18,14 @@ Business IT student specializing in Software Engineering and Project Management.
 
 **Backend:**  
 * Node.js
+* Express.js
 * Prisma ORM
+* MongoDB
+* SQL
 
 **Tools:**  
 * Git
+* Docker
 
 ## Featured Projects
 * **CampusRide** - Ride-sharing platform for university students
